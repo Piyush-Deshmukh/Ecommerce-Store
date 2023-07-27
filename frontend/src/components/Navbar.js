@@ -11,7 +11,7 @@ function NavbarComponent() {
   const handleShow = () => setShow(true);
 
   const checkout = async () => {
-    await fetch(`${process.env.SERVER_URL}/checkout`, {
+    await fetch("/checkout", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
