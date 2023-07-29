@@ -40,7 +40,7 @@ function NavbarComponent() {
         <div className="container flex items-center justify-between mx-auto">
           <a href="/" className="flex items-center no-underline">
             <span className="self-center text-2xl whitespace-nowrap text-black">
-              Ecommerce Store
+              Black Palette
             </span>
           </a>
           <button
