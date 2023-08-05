@@ -12,7 +12,7 @@ const productsArray = [
         id: "price_1MRUQ2SJnpbcq9SOoy0GZ21L",
         title: "Backpack",
         price: 109.99,
-        img: "../public/images/test.jpg"
+        img: require("../public/images/Backpack.png")
     },
     {
         id: "price_1MRURXSJnpbcq9SOEnS9vDYB",
