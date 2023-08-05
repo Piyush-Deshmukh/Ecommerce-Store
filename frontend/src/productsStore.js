@@ -12,7 +12,7 @@ const productsArray = [
         id: "price_1MRUQ2SJnpbcq9SOoy0GZ21L",
         title: "Backpack",
         price: 109.99,
-        img: "http://cdn.shopify.com/s/files/1/2561/9692/products/Svenklas-amber-black-backpack-1.jpg?v=1610268881"
+        img: "../public/images/test.jpg"
     },
     {
         id: "price_1MRURXSJnpbcq9SOEnS9vDYB",
