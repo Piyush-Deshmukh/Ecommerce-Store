@@ -4,7 +4,6 @@
 // Cup: price_1MQtStSJnpbcq9SOtTxTGqTt
 // Sunglasses: price_1MQtUbSJnpbcq9SOMziK2I97
 // Camera: price_1MQtVlSJnpbcq9SOBkgD9mlq
-import Backpack from "../public/images/Backpack.png"
 
 
 
@@ -13,7 +12,7 @@ const productsArray = [
         id: "price_1MRUQ2SJnpbcq9SOoy0GZ21L",
         title: "Backpack",
         price: 109.99,
-        img: Backpack
+        img: "https://cdn.shopify.com/s/files/1/2561/9692/products/Svenklas-amber-black-backpack-1.jpg?v=1610268881"
     },
     {
         id: "price_1MRURXSJnpbcq9SOEnS9vDYB",
