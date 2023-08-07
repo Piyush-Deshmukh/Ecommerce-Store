@@ -1,5 +1,5 @@
 <h1 align="center">
-  Black Pallete
+  Black Palette
   <br>
 </h1>
 
