@@ -19,7 +19,9 @@ https://ecommerce-store-t89j.onrender.com/
 
 ## Screenshots
 
-Yet to add.
+![screenshot home page](https://github.com/Piyush-Deshmukh/Ecommerce-Store/assets/99667276/ce633337-9802-4b80-81b7-0a457d040457)
+![screenshot cart](https://github.com/Piyush-Deshmukh/Ecommerce-Store/assets/99667276/57a7df4b-1dc7-407c-b781-81cc4b10b910)
+![screenshot stripe checkout](https://github.com/Piyush-Deshmukh/Ecommerce-Store/assets/99667276/685931fe-5857-4d9b-b5c6-02233192b4aa)
 
 ## Key Features
 
