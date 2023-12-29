@@ -7,25 +7,40 @@
 
 
 <p align="center">
+  <a href="#demo">Demo</a> •
   <a href="#screenshots">Screenshots</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#build">Build</a> •
-  <a href="#license">License</a>
+  <a href="#build">Build</a>
 </p>
 
-## Live 
-https://ecommerce-store-t89j.onrender.com/
+## Demo 
+
+Here is a live working demo : https://ecommerce-store-t89j.onrender.com/
 
 ## Screenshots
 
+### Home Page
+
 ![screenshot home page](https://github.com/Piyush-Deshmukh/Ecommerce-Store/assets/99667276/ce633337-9802-4b80-81b7-0a457d040457)
+
+### Cart
+
 ![screenshot cart](https://github.com/Piyush-Deshmukh/Ecommerce-Store/assets/99667276/57a7df4b-1dc7-407c-b781-81cc4b10b910)
+
+### Stripe Checkout
+
 ![screenshot stripe checkout](https://github.com/Piyush-Deshmukh/Ecommerce-Store/assets/99667276/685931fe-5857-4d9b-b5c6-02233192b4aa)
 
 ## Key Features
 
-Yet to add.
+* Product with their pricing and pics
+* Add to Cart option
+  - Increment and Decrement number of products
+  - Remove a product from cart
+* Stripe Checkout for payments
+  - Order multiple products
+  - Cancel your order
 
 ## How To Use
 
@@ -53,13 +68,9 @@ $ npm run server
 
 ## Build
 
-To build this application run the following command
+To build this application run the following command:
 
 ```bash
 # Build command
 $ npm run setup-production
 ```
-
-## License
-
-MIT
